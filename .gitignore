@@ -1,0 +1,7 @@
+/access.log
+/node_modules
+/nodemon.json
+/package-lock.json
+/server.cert
+/server.key
+/vercel.json
